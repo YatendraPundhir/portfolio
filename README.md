@@ -22,13 +22,10 @@
 
 ## About Me
 
-I am a ** Test Manager with 10+ years of experience** transforming how enterprise organizations think about software quality. My work sits at the intersection of **AI innovation and engineering excellence** — I don't just test software, I architect quality systems that are intelligent, scalable, and data-secure.
+I am a **Test Manager with 10+ years of experience** transforming how enterprise organizations think about software quality. My work sits at the intersection of **AI innovation and engineering excellence** — I don't just test software, I architect quality systems that are intelligent, scalable, and data-secure.
 
 My current focus is building **AI-native QA ecosystems** — leveraging Generative AI, LLMs, RAG pipelines, and offline local AI agents to automate quality engineering workflows while maintaining **100% data privacy**. I lead cross-functional global teams, define QA governance frameworks, and convert quality from a cost center into a **strategic business multiplier**.
 
-> 🚀 If you're a CTO, CEO, or Engineering Leader building AI-powered products — **you need quality built in, not bolted on.** That's exactly what I deliver.
-
----
 
 ## 📊 Professional Impact at a Glance
 
