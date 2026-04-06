@@ -39,8 +39,8 @@ My current focus is building **AI-native QA ecosystems** — leveraging Generati
 | **QA Team Scaling (NowNow / Innefu Labs)** | ⬆️ 40% increase in testing capacity |
 | **Defect Escape Rate Optimization** | ⬇️ 40% reduction in post-release defects |
 | **Agile Sprint Productivity Boost** | ⬆️ 90% productivity improvement via automation |
-| **Cross-Border QA Leadership** | 🌍 10+ distributed engineers across Nigeria, Angola, Guinea, India |
-| **Years of QA Leadership** | 🗓️ 10+ years across Fintech, AI, Cybersecurity, Healthcare |
+| **Cross-Border QA Leadership** | 🌍 10+ distributed engineers across Nigeria, Angola, Guinea, New york, South Korea ,India |
+| **Years of QA Leadership** | 🗓️ 10+ years across Fintech, AI, Cybersecurity, Education, Healthcare |
 
 </div>
 
