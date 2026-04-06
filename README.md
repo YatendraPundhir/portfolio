@@ -2,7 +2,7 @@
 
 
 
-**ABOUT ME:**
+**INTRODUCTION**
 
 “I don’t just manage quality. I engineer it — at scale, with AI, and with zero compromise on data security.”
 
