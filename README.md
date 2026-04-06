@@ -36,7 +36,7 @@ My current focus is building **AI-native QA ecosystems** — leveraging Generati
 | **Offline AI Test Case Generator** | ⬇️ 60% reduction in manual test drafting effort |
 | **Selenium + Robot Framework Automation** | ⬇️ 45% reduction in manual testing time |
 | **CI/CD Integration with Jenkins** | ⬇️ 95% fewer post-deployment issues |
-| **QA Team Scaling (NowNow / Contec Global)** | ⬆️ 40% increase in testing capacity |
+| **QA Team Scaling (NowNow / Innefu Labs)** | ⬆️ 40% increase in testing capacity |
 | **Defect Escape Rate Optimization** | ⬇️ 40% reduction in post-release defects |
 | **Agile Sprint Productivity Boost** | ⬆️ 90% productivity improvement via automation |
 | **Cross-Border QA Leadership** | 🌍 10+ distributed engineers across Nigeria, Angola, Guinea, India |
