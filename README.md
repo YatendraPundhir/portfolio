@@ -5,7 +5,7 @@
 
 #  Yatendra Singh Pundhir
 
-### test Manager | AI Strategist | Agentic AI & LLM Testing Expert | Agile Coach |Excellence in Cross-Functional Approach  | Expert for Fast-Growth Startups
+### Test Manager | AI Strategist | Agentic AI & LLM Testing Expert | Agile Coach |Excellence in Cross-Functional Approach  | Expert for Fast-Growth Startups
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatendrapundhir)
 [![Email](https://img.shields.io/badge/Email-yatendrasinghqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatendrasinghqa@gmail.com)
