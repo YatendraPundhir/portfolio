@@ -169,7 +169,6 @@ My current focus is building **AI-native QA ecosystems** — leveraging Generati
 
 | Education | Issuing Body | Level |
 |---|---|---|
-
 | 🎓 **Master of Computer Applications (MCA)** | APJAKTU, Lucknow | Postgraduate |
 
 </div>
