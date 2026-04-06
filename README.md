@@ -42,3 +42,13 @@ JMeter · OWASP ZAP · Security Testing · Performance Testing · API Testing ·
 
 **Leadership & Methodology:**
 Agile · Scrum · Test Strategy · QA Governance · Risk Management · Stakeholder Management · Team Leadership · KPI Management
+
+
+
+
+**CERTIFICATIONS**
+<img width="960" height="676" alt="image" src="https://github.com/user-attachments/assets/41ca5266-f651-451c-b18e-c36ea7067de1" />
+
+<img width="958" height="679" alt="image" src="https://github.com/user-attachments/assets/5c2c2d5d-f436-42cb-9e00-da709aa18d4c" />
+
+
