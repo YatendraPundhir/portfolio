@@ -1,3 +1,6 @@
+<img width="1024" height="170" alt="image" src="https://github.com/user-attachments/assets/e011bdb4-e58f-4b62-8e67-006d8fabadbd" />
+
+
 “I don’t just manage quality. I engineer it — at scale, with AI, and with zero compromise on data security.”
 
 Over the past decade, I’ve led QA transformations that go well beyond finding bugs. As a Test Manager, Agile Coach, and AI Strategist, I help organizations reimagine how quality is built into every layer of their software delivery pipeline — from product inception to production.
