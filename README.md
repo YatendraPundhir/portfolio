@@ -25,3 +25,16 @@ What I Bring to the Executive Table:
 Why It Matters for Your Business
 In an era where AI is embedded in your product, your QA function cannot remain traditional. Slow test cycles, data privacy exposure during AI-assisted testing, and poor test coverage are boardroom-level risks — not just engineering problems.
 I specialize in transforming QA from a cost center into a strategic growth enabler: one that ships faster, fails safer, and scales smarter.
+
+**SKILLS SECTION **
+
+**AI & Emerging Tech:**
+Generative AI · LLM Testing · Prompt Engineering · RAG (Retrieval-Augmented Generation) · Ollama · Red Teaming · AI Governance · Garak · Arize Phoenix · Ragas · Promptfoo · AnythingLLM
+**Test Automation:**
+Selenium · Robot Framework · Python · Jenkins CI/CD · Playwright · Healenium · Locust
+**Test Management:**
+JIRA · Azure DevOps · TestLink · TFS · Defect Lifecycle Management
+**Performance & Security:**
+JMeter · OWASP ZAP · Security Testing · Performance Testing · API Testing · Postman
+**Leadership & Methodology:**
+Agile · Scrum · Test Strategy · QA Governance · Risk Management · Stakeholder Management · Team Leadership · KPI Management
