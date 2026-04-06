@@ -184,10 +184,15 @@ Over 10 years, I've led engineers in India, Nigeria, Angola, and Guinea — acro
 cybersecurity, AI, healthcare, and government technology. Here's what I believe:
 
 ✅  Quality is a shared responsibility — not a department.
+
 ✅  AI doesn't replace QA engineers — it amplifies the great ones.
+
 ✅  Every defect found before release is a customer retained.
+
 ✅  Data-driven QA (defect escape rate, cycle time, test ROI) beats gut feel every time.
+
 ✅  Mentorship is not optional in high-performance teams — it's infrastructure.
+
 
 ---
 
