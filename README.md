@@ -159,10 +159,20 @@ My current focus is building **AI-native QA ecosystems** — leveraging Generati
 |---|---|---|
 | 🎓 **ISTQB® Certified Tester** | ISTQB International | Foundation Level (CTFL) |
 | 🏆 **Certified Scrum Master (CSM)** | Scrum Alliance | Professional |
-| 🎓 **Master of Computer Applications (MCA)** | APJAKTU, Lucknow | Postgraduate |
 
 </div>
 
+---
+### 📜 Education
+
+<div align="center">
+
+| Education | Issuing Body | Level |
+|---|---|---|
+
+| 🎓 **Master of Computer Applications (MCA)** | APJAKTU, Lucknow | Postgraduate |
+
+</div>
 ---
 
 ### 🧭 My Leadership Philosophy
